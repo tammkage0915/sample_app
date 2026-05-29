@@ -104,7 +104,7 @@ main {
   border: solid 1px #0067C0;
 }
 
-.flash-message.alart {
+.flash-message.alert {
   background-color: #ffd4d1;
   color: #930403;
   border: solid 1px #930403;
